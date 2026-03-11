@@ -25,7 +25,7 @@ Soy PIKY-505, un apasionado estudiante de Ciberseguridad en constante desarrollo
 
 ---
 
-## Actividad Anual
+## Actividad y Estadisticas
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIKY-505&bg_color=000000&color=a9a9b3&line=ff0000&point=ffffff&area=true&hide_border=true&days=365" width="100%" alt="Actividad Anual de PIKY-505" />
@@ -34,8 +34,12 @@ Soy PIKY-505, un apasionado estudiante de Ciberseguridad en constante desarrollo
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PIKY-505&show_icons=true&bg_color=000000&title_color=ff0000&text_color=a9a9b3&icon_color=ff0000&border_color=000000&hide_border=true&count_private=true" height="190" alt="Estadisticas Generales" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIKY-505&background=000000&ring=ff0000&fire=ff0000&currStreakNum=a9a9b3&sideLabels=a9a9b3&currStreakLabel=ff0000&sideNums=a9a9b3&dates=a9a9b3&hide_border=true" height="190" alt="Racha de Commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PIKY-505&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=000000&hide_border=true&count_private=true" height="190" alt="Estadisticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIKY-505&layout=compact&bg_color=000000&title_color=ff0000&text_color=ffffff&hide_border=true" height="190" alt="Lenguajes mas usados" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIKY-505&background=000000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=ff0000&sideNums=ffffff&dates=ffffff&hide_border=true" height="180" alt="Racha de Commits" />
 </div>
 
 ---
