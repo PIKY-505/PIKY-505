@@ -45,7 +45,7 @@ Soy PIKY-505, un apasionado estudiante de Ciberseguridad en constante desarrollo
 <div align="center">
   <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br><br>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="profile-3d-contrib/profile-custom.svg" alt="3D Contribution Graph" />
 </div>
 
 ---

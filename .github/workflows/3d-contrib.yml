@@ -24,10 +24,22 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: PIKY-505
+          SETTING_JSON: |
+            [
+              {
+                "name": "custom",
+                "bg": "#000000",
+                "color0": "#000000",
+                "color1": "#4d0000",
+                "color2": "#990000",
+                "color3": "#e60000",
+                "color4": "#ff0000"
+              }
+            ]
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update 3D contribution graph"
+          commit_message: "chore: update 3D contribution graph with custom hacker theme"
           branch: main
           file_pattern: profile-3d-contrib/*
