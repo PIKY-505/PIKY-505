@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=PIKY-505&fontSize=80&fontColor=ff0000&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Ciberseguridad%20%7C%20Desarrollador&descAlignY=55&descAlign=50" />
 </div>
 
-## PIKI-505
+## PIKY-505
 
 Un apasionado estudiante de Ciberseguridad en constante desarrollo. Mi principal objetivo es comprender a fondo la arquitectura de los sistemas y redes para identificar vulnerabilidades y proteger la información.
 
