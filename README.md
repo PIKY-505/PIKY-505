@@ -27,17 +27,32 @@ Soy **PIKY-505**, un apasionado estudiante de Ciberseguridad en constante desarr
 
 ## 📊 Actividad y Estadísticas
 
-> *Nota: El gráfico de líneas detalla el último trimestre de actividad (90 días), mientras que las tarjetas recogen el histórico completo del año.*
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIKY-505&bg_color=000000&color=a9a9b3&line=ff0000&point=ffffff&area=true&hide_border=true&days=90" width="100%" alt="Actividad Reciente de PIKY-505" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIKY-505&bg_color=000000&color=a9a9b3&line=ff0000&point=ffffff&area=true&hide_border=true&days=30" width="100%" alt="Actividad Reciente de PIKY-505" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PIKY-505&show_icons=true&bg_color=000000&title_color=ff0000&text_color=a9a9b3&icon_color=ff0000&border_color=000000&hide_border=true&count_private=true&include_all_commits=true" height="190" alt="Estadisticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PIKY-505&show_icons=true&bg_color=000000&title_color=ff0000&text_color=a9a9b3&icon_color=ff0000&border_color=000000&hide_border=true&count_private=true" height="190" alt="Estadisticas Generales" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIKY-505&background=000000&ring=ff0000&fire=ff0000&currStreakNum=a9a9b3&sideLabels=a9a9b3&currStreakLabel=ff0000&sideNums=a9a9b3&dates=a9a9b3&hide_border=true" height="190" alt="Racha de Commits" />
+</div>
+
+---
+
+## 🐍 Mis Contribuciones Anuales
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PIKY-505/PIKY-505/main/dist/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/PIKY-505/PIKY-505/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PIKY-505/PIKY-505/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile" width="100%"/>
 </div>
 
 ---
