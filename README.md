@@ -28,6 +28,10 @@ Soy PIKY-505, un apasionado estudiante de Ciberseguridad en constante desarrollo
 ## Actividad y Estadisticas
 
 <div align="center">
+  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIKY-505&bg_color=000000&color=a9a9b3&line=ff0000&point=ffffff&area=true&hide_border=true&days=365" width="100%" alt="Actividad Anual de PIKY-505" />
 </div>
 
@@ -40,14 +44,6 @@ Soy PIKY-505, un apasionado estudiante de Ciberseguridad en constante desarrollo
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIKY-505&background=000000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=ff0000&sideNums=ffffff&dates=ffffff&hide_border=true" height="180" alt="Racha de Commits" />
-</div>
-
----
-
-## Visualizaciones Dinamicas
-
-<div align="center">
-  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
