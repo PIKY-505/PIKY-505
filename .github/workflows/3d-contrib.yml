@@ -5,13 +5,16 @@ on:
     - cron: "0 1 * * *" # Se ejecuta a la 1 AM todos los días
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate 3D Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -20,7 +23,7 @@ jobs:
           USERNAME: PIKY-505
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update 3D contribution graph"
           branch: main
