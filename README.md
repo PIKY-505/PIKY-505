@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **PIKY-505**, un apasionado estudiante de Ciberseguridad en constante desarrollo. Mi principal objetivo es comprender a fondo la arquitectura de los sistemas y redes para identificar vulnerabilidades y proteger la información.
+**PIKY-505**, estudiante de Ciberseguridad en constante desarrollo. Mi principal objetivo es comprender a fondo la arquitectura de los sistemas y redes para identificar vulnerabilidades y proteger la información. En mi tiempo libre tambien me dedico al desarrollo de entornos web.
 
 * 🛡️ **Enfoque Principal:** Seguridad de la información, análisis de vulnerabilidades y hardening de sistemas.
 * 💻 **Desarrollo:** Conocimientos sólidos en desarrollo y esquematización de entornos web y lógicos.
