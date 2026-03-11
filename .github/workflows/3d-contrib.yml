@@ -1,0 +1,27 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # Se ejecuta a la 1 AM todos los días
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate 3D Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: PIKY-505
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update 3D contribution graph"
+          branch: main
+          file_pattern: profile-3d-contrib/*
