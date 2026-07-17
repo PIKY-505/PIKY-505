@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=PIKY-505&fontSize=80&fontColor=ff0000&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
-## PIKY-505
-
----
 
 ## Technologies & Frameworks
 
