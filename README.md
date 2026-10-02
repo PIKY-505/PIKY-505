@@ -22,10 +22,6 @@
   <img src="dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIKY-505&bg_color=000000&color=a9a9b3&line=ff0000&point=ffffff&area=true&hide_border=true&days=365" width="100%" alt="PIKY-505 Annual Activity" />
-</div>
-
 <br>
 
 <div align="center">
