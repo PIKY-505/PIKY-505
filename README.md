@@ -43,7 +43,6 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000" alt="Linux" />
   <img src="https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=ff0000" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ff0000" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff0000" alt="Docker" />
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ff0000" alt="Bash" />
 </p>
