@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Se ejecuta a medianoche todos los días
+  # The automated cron schedule ("0 0 * * *") has been removed to eliminate
+  # daily automated commits that distort GitHub contribution graphs and activity metrics.
   workflow_dispatch:
 
 permissions:
@@ -29,6 +29,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update snake animation visibility"
+          commit_message: "chore: update snake animation visibility [manual]"
           branch: main
           file_pattern: dist/*
