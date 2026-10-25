@@ -76,7 +76,7 @@
   * *Stack: Python 3.12, FastAPI, NATS JetStream, ClickHouse, Fedora Linux*
 
 * **[Autonomous Agentic Bug Bounty Framework (FSM Engine v2)](https://github.com/PIKY-505/Agent-Bug-Bounty)**  
-  Continuous, 24/7 AI-driven vulnerability assessment and automated security research system built on an AsyncIO Finite State Machine (FSM v2) and bounded ReAct tool-calling loops over 19 red-team CLI tools. Features dynamic asset harvesting, sample-floor WAF circuit breakers, Model Context Protocol (MCP) threat intelligence, and deterministic CVSS v3.1 calculations.  
+  AI-driven vulnerability assessment and automated security research system built on an AsyncIO Finite State Machine (FSM v2) and bounded ReAct tool-calling loops over 19 red-team CLI tools. Features dynamic asset harvesting, sample-floor WAF circuit breakers, Model Context Protocol (MCP) threat intelligence, and deterministic CVSS v3.1 calculations.  
   * *Stack: Python 3.12, AsyncIO, ReAct / LLM Agents, Model Context Protocol (MCP), Security Tooling*
 
 * **[FXSound_For_Linux](https://github.com/PIKY-505/FXSound_For_Linux)**  
