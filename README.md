@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=240&section=header&text=PIKY-505&fontSize=76&fontColor=ff0000&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20Purple%20Teaming%20%7C%20Systems%20%26%20Software%20Development&descAlignY=58&descAlign=50&descSize=19&descColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=PIKY-505&fontSize=80&fontColor=ff0000&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
 <p align="center">
@@ -11,6 +11,56 @@
   <a href="https://github.com/PIKY-505"><img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=ff0000" alt="GitHub" /></a>
   <a href="https://github.com/PIKY-505/WEB-PIKY-505"><img src="https://img.shields.io/badge/Portfolio-Online-000000?style=for-the-badge&logo=googlechrome&logoColor=ff0000" alt="Portfolio" /></a>
 </p>
+
+---
+
+### 📊 Real-Time Activity & Metrics
+
+<div align="center">
+  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PIKY-505&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=330000&rank_icon=github" height="175" alt="GitHub Overview Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIKY-505&layout=compact&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=330000" height="175" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIKY-505&background=000000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=ff0000&sideNums=ffffff&dates=ffffff&border=330000&hide_border=false" height="180" alt="Streak Tracker" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+* **[AETHER (Autonomous Purple Team Platform)](https://github.com/PIKY-505/AetherHub)**  
+  A closed-loop Purple Team Hub and Detection Engineering platform designed for Fedora Linux. Bridges offensive adversary emulation with defensive telemetry collection, automated MTTD benchmarking, and automated AI synthesis of Sigma and YARA rules.  
+  * *Stack: Python 3.12, FastAPI, NATS JetStream, ClickHouse, Fedora Linux*
+
+* **[WEB-PIKY-505](https://github.com/PIKY-505/WEB-PIKY-505)**  
+  High-performance personal web portfolio highlighting software engineering, ASIR network administration projects, and interactive 3D WebGL background environments.  
+  * *Stack: JavaScript, CSS3/HTML5, WebGL, Responsive Architecture*
+
+* **[FXSound_For_Linux](https://github.com/PIKY-505/FXSound_For_Linux)**  
+  Audio DSP tuning and enhanced user interface for Linux (optimized for Fedora Workstation), providing top-bar desktop controls and real-time audio presets.  
+  * *Stack: Linux, Audio DSP, Shell, Fedora*
+
+* **[TROYANET](https://github.com/PIKY-505/TROYANET)**  
+  Cybersecurity and ethical hacking convention web platform, engineered using clean CSS Grid layouts and modern responsive web design standards.  
+  * *Stack: HTML5, CSS Grid, Responsive Design*
+
+* **[Red-XTART](https://github.com/PIKY-505/Red-XTART)**  
+  Simulated enterprise web portal for the XTART infrastructure center, adhering to semantic HTML standards and scalable CSS organization.  
+  * *Stack: HTML5, Semantic CSS3, Modular Design*
+
+* **[Geo-s-Corp](https://github.com/PIKY-505/Geo-s-Corp)**  
+  Intermodular systems infrastructure and development project for ASIR (Administración de Sistemas Informáticos en Red).  
+  * *Stack: HTML, Systems Administration, Network Architecture*
 
 ---
 
@@ -45,54 +95,4 @@
   <img src="https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=ff0000" alt="ClickHouse" />
 </p>
 
-</div>
-
----
-
-### 🚀 Featured Projects
-
-* **[AETHER (Autonomous Purple Team Platform)](https://github.com/PIKY-505/AetherHub)**  
-  A closed-loop Purple Team Hub and Detection Engineering platform designed for Fedora Linux. Bridges offensive adversary emulation with defensive telemetry collection, automated MTTD benchmarking, and automated AI synthesis of Sigma and YARA rules.  
-  * *Stack: Python 3.12, FastAPI, NATS JetStream, ClickHouse, Fedora Linux*
-
-* **[WEB-PIKY-505](https://github.com/PIKY-505/WEB-PIKY-505)**  
-  High-performance personal web portfolio highlighting software engineering, ASIR network administration projects, and interactive 3D WebGL background environments.  
-  * *Stack: JavaScript, CSS3/HTML5, WebGL, Responsive Architecture*
-
-* **[FXSound_For_Linux](https://github.com/PIKY-505/FXSound_For_Linux)**  
-  Audio DSP tuning and enhanced user interface for Linux (optimized for Fedora Workstation), providing top-bar desktop controls and real-time audio presets.  
-  * *Stack: Linux, Audio DSP, Shell, Fedora*
-
-* **[TROYANET](https://github.com/PIKY-505/TROYANET)**  
-  Cybersecurity and ethical hacking convention web platform, engineered using clean CSS Grid layouts and modern responsive web design standards.  
-  * *Stack: HTML5, CSS Grid, Responsive Design*
-
-* **[Red-XTART](https://github.com/PIKY-505/Red-XTART)**  
-  Simulated enterprise web portal for the XTART infrastructure center, adhering to semantic HTML standards and scalable CSS organization.  
-  * *Stack: HTML5, Semantic CSS3, Modular Design*
-
-* **[Geo-s-Corp](https://github.com/PIKY-505/Geo-s-Corp)**  
-  Intermodular systems infrastructure and development project for ASIR (Administración de Sistemas Informáticos en Red).  
-  * *Stack: HTML, Systems Administration, Network Architecture*
-
----
-
-### 📊 Real-Time Activity & Metrics
-
-<div align="center">
-  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PIKY-505&show_icons=true&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=330000&rank_icon=github" alt="GitHub Overview Stats" height="175" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIKY-505&layout=compact&theme=radical&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=330000" alt="Top Languages" height="175" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIKY-505&background=000000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideLabels=ffffff&currStreakLabel=ff0000&sideNums=ffffff&dates=ffffff&border=330000&hide_border=false" alt="Streak Tracker" height="180" />
 </div>
