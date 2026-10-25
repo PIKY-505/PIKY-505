@@ -35,41 +35,12 @@
 </div>
 
 ---
-### 🛠️ Core Competencies & Technologies
-
-<div align="center">
-
-#### Systems & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000" alt="Linux" />
-  <img src="https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=ff0000" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff0000" alt="Docker" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ff0000" alt="Bash" />
-</p>
-
-#### Security & Detection Engineering
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=ff0000" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Purple_Teaming-000000?style=for-the-badge&logo=shield&logoColor=ff0000" alt="Purple Team" />
-  <img src="https://img.shields.io/badge/Detection_Engineering-000000?style=for-the-badge&logo=target&logoColor=ff0000" alt="Detection Engineering" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff0000" alt="Git" />
-</p>
-
-#### Development & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ff0000" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff0000" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff0000" alt="CSS3" />
-  <img src="https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=ff0000" alt="ClickHouse" />
-</p>
-
-</div>
-
----
 
 ### 🚀 Featured Projects
+
+* **[Autonomous Agentic Bug Bounty Framework (FSM Engine v2)](https://github.com/PIKY-505/Agent-Bug-Bounty)**  
+  Continuous, 24/7 AI-driven vulnerability assessment and automated security research system built on an AsyncIO Finite State Machine (FSM v2) and bounded ReAct tool-calling loops over 19 red-team CLI tools. Features dynamic asset harvesting, sample-floor WAF circuit breakers, Model Context Protocol (MCP) threat intelligence, and deterministic CVSS v3.1 calculations.  
+  * *Stack: Python 3.12, AsyncIO, ReAct / LLM Agents, Model Context Protocol (MCP), Security Tooling*
 
 * **[AETHER (Autonomous Purple Team Platform)](https://github.com/PIKY-505/AetherHub)**  
   A closed-loop Purple Team Hub and Detection Engineering platform designed for Fedora Linux. Bridges offensive adversary emulation with defensive telemetry collection, automated MTTD benchmarking, and automated AI synthesis of Sigma and YARA rules.  
@@ -97,4 +68,35 @@
 
 ---
 
+### 🛠️ Core Competencies & Technologies
 
+<div align="center">
+
+#### Systems & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff0000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=ff0000" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=ff0000" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff0000" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ff0000" alt="Bash" />
+</p>
+
+#### Security & Detection Engineering
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=ff0000" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Purple_Teaming-000000?style=for-the-badge&logo=shield&logoColor=ff0000" alt="Purple Team" />
+  <img src="https://img.shields.io/badge/Detection_Engineering-000000?style=for-the-badge&logo=target&logoColor=ff0000" alt="Detection Engineering" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff0000" alt="Git" />
+</p>
+
+#### Development & Data
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff0000" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=ff0000" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff0000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff0000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff0000" alt="CSS3" />
+  <img src="https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=ff0000" alt="ClickHouse" />
+</p>
+
+</div>
