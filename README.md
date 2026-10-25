@@ -35,35 +35,6 @@
 </div>
 
 ---
-
-### 🚀 Featured Projects
-
-* **[AETHER (Autonomous Purple Team Platform)](https://github.com/PIKY-505/AetherHub)**  
-  A closed-loop Purple Team Hub and Detection Engineering platform designed for Fedora Linux. Bridges offensive adversary emulation with defensive telemetry collection, automated MTTD benchmarking, and automated AI synthesis of Sigma and YARA rules.  
-  * *Stack: Python 3.12, FastAPI, NATS JetStream, ClickHouse, Fedora Linux*
-
-* **[WEB-PIKY-505](https://github.com/PIKY-505/WEB-PIKY-505)**  
-  High-performance personal web portfolio highlighting software engineering, ASIR network administration projects, and interactive 3D WebGL background environments.  
-  * *Stack: JavaScript, CSS3/HTML5, WebGL, Responsive Architecture*
-
-* **[FXSound_For_Linux](https://github.com/PIKY-505/FXSound_For_Linux)**  
-  Audio DSP tuning and enhanced user interface for Linux (optimized for Fedora Workstation), providing top-bar desktop controls and real-time audio presets.  
-  * *Stack: Linux, Audio DSP, Shell, Fedora*
-
-* **[TROYANET](https://github.com/PIKY-505/TROYANET)**  
-  Cybersecurity and ethical hacking convention web platform, engineered using clean CSS Grid layouts and modern responsive web design standards.  
-  * *Stack: HTML5, CSS Grid, Responsive Design*
-
-* **[Red-XTART](https://github.com/PIKY-505/Red-XTART)**  
-  Simulated enterprise web portal for the XTART infrastructure center, adhering to semantic HTML standards and scalable CSS organization.  
-  * *Stack: HTML5, Semantic CSS3, Modular Design*
-
-* **[Geo-s-Corp](https://github.com/PIKY-505/Geo-s-Corp)**  
-  Intermodular systems infrastructure and development project for ASIR (Administración de Sistemas Informáticos en Red).  
-  * *Stack: HTML, Systems Administration, Network Architecture*
-
----
-
 ### 🛠️ Core Competencies & Technologies
 
 <div align="center">
@@ -96,3 +67,35 @@
 </p>
 
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+* **[AETHER (Autonomous Purple Team Platform)](https://github.com/PIKY-505/AetherHub)**  
+  A closed-loop Purple Team Hub and Detection Engineering platform designed for Fedora Linux. Bridges offensive adversary emulation with defensive telemetry collection, automated MTTD benchmarking, and automated AI synthesis of Sigma and YARA rules.  
+  * *Stack: Python 3.12, FastAPI, NATS JetStream, ClickHouse, Fedora Linux*
+
+* **[WEB-PIKY-505](https://github.com/PIKY-505/WEB-PIKY-505)**  
+  High-performance personal web portfolio highlighting software engineering, ASIR network administration projects, and interactive 3D WebGL background environments.  
+  * *Stack: JavaScript, CSS3/HTML5, WebGL, Responsive Architecture*
+
+* **[FXSound_For_Linux](https://github.com/PIKY-505/FXSound_For_Linux)**  
+  Audio DSP tuning and enhanced user interface for Linux (optimized for Fedora Workstation), providing top-bar desktop controls and real-time audio presets.  
+  * *Stack: Linux, Audio DSP, Shell, Fedora*
+
+* **[TROYANET](https://github.com/PIKY-505/TROYANET)**  
+  Cybersecurity and ethical hacking convention web platform, engineered using clean CSS Grid layouts and modern responsive web design standards.  
+  * *Stack: HTML5, CSS Grid, Responsive Design*
+
+* **[Red-XTART](https://github.com/PIKY-505/Red-XTART)**  
+  Simulated enterprise web portal for the XTART infrastructure center, adhering to semantic HTML standards and scalable CSS organization.  
+  * *Stack: HTML5, Semantic CSS3, Modular Design*
+
+* **[Geo-s-Corp](https://github.com/PIKY-505/Geo-s-Corp)**  
+  Intermodular systems infrastructure and development project for ASIR (Administración de Sistemas Informáticos en Red).  
+  * *Stack: HTML, Systems Administration, Network Architecture*
+
+---
+
+
